@@ -3,7 +3,7 @@ name: CI/CD з Telegram-нотифікацією
 on:
   push:
     branches:
-      - main
+      - mainmaster
 
 jobs:
   build-and-notify:
